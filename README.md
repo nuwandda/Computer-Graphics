@@ -1,7 +1,7 @@
 # Computer-Graphics
 ## Assignments of the Introduction to the Computer Graphics course.
 
-### Rotate Polygons using your own vector and matrix classes
+### Rotate Polygons using your own vector and matrix classes(Assignment - 1)
 - There is a simple example file attached to this assignment.
 - If you run this file you will see a triangle and a square on the screen.
 - By utilizing your matrix and vector classes, you will rotate the square and the triangle around one their vertices.
@@ -13,7 +13,7 @@
   - Then use those classes to transform the triangle and square around one of their vertices. You can wait for a key press to do rotation incrementally or wait for a certain elapsed time since last update and then update the scene (People who does this time based updating will have a bonus for this assignment).
   - Please implement classes vec3d and mat3d in their respective files and apply them in the assignment.py file.
   
-### Primitives in 3D
+### Primitives in 3D(Assignment - 2)
 - Implement and display various primitives in 3d:
   - Sphere
   - Plane
@@ -29,7 +29,7 @@
   - Alt + Right Mouse Button: Move in and out along the x axis for getting closer and further away from the object
   - F key for resetting the view to fully enclose the primitive on screen
 
-### Interactive Subdivision And Obj Parsing
+### Interactive Subdivision And Obj Parsing(Assignment - 3)
 - First of all since this is your third assignment, cleanup all the comments in the assignment#.py file that originates from the original file i gave you guys before starting this project. From now on the comments should only be your comments. And commenting is encouraged for me to better understand wat you do!
 - Make a python program called assignment3.py
   - This program should be run as such:
